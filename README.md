@@ -1,5 +1,9 @@
 # ParamFinder 🛡️
 
+<p align="center">
+  <img src="brrrr.png" alt="Paramfinder Mascot">
+</p>
+
 ![GitHub stars](https://img.shields.io/github/stars/pentestfunctions/paramfinder?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/pentestfunctions/paramfinder?style=social)
 ![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
