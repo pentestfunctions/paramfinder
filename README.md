@@ -32,3 +32,5 @@ The full Python script can be found at:
 [https://github.com/pentestfunctions/paramfinder/paramfinder.py](https://github.com/pentestfunctions/paramfinder/paramfinder.py)
 
 Enjoy efficient and automated parameter finding for your penetration testing needs! 🚀
+
+![image](https://github.com/pentestfunctions/paramfinder/assets/144001335/6ebcdc73-796e-4bf9-af14-edacf54584c3)
